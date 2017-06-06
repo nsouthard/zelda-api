@@ -1,0 +1,2 @@
+class Zelda < ApplicationRecord
+end
